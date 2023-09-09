@@ -4,7 +4,7 @@
 I'm a data analyst and student pursuing a Master's in Data Science from UC Berkeley. Some of my interests include statistical analysis, programming, and data visualization.
 </p>
 <p align="center"> 
-When I'm not analyzing data, you can find me in the middle of a run or on my way to a new coffee shop.
+When I'm not working with data, you can find me in the middle of a run or on my way to a new coffee shop.
 </p>
 
 
@@ -28,7 +28,7 @@ class Jailynne < Person
   end
 
   def current_location
-    'New York, New York'
+    'Brooklyn, New York'
   end
 
   def next_locations
@@ -37,9 +37,9 @@ class Jailynne < Person
 
   def currently
     {
-      studying: [ 'Introduction to Data Science Programming', 'Research Design and Applications for Data and Analysis' ],
-      reading: [ 'Multipliers: How the Best Leaders Make Everyone Smarter', 'Severance' ],
-      tinkering: [ 'Linear Algebra', 'Python' ]
+      studying: [ 'Statistics for Data Science', 'Fundamentals of Data Engineering' ],
+      reading: [ 'Foundations of Agnostic Statistics', 'Tomorrow, and Tomorrow, and Tomorrow' ],
+      tinkering: [ 'Statistics', 'Python' ]
      }
   end
 end

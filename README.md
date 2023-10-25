@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, Y’all! I'm Jailynne 🤠</h1>
 
 <p align="center">
-I'm a data analyst and student pursuing a Master's in Data Science from UC Berkeley. Some of my interests include statistical analysis, programming, and data visualization.
+I'm an analyst and student pursuing a Master's in Data Science from UC Berkeley. Some of my interests include statistical analysis, programming, and data visualization.
 </p>
 <p align="center"> 
 When I'm not working with data, you can find me in the middle of a run or on my way to a new coffee shop.

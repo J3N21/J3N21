@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, Y’all! I'm Jailynne 🤠</h1>
+<h1 align="center"> Hi, Y’all! I'm Jailynne 🤠 </h1>
 
 <p align="center">
 I'm an analyst and student pursuing a Master's in Data Science from UC Berkeley. Some of my interests include statistical analysis, programming, and data visualization.

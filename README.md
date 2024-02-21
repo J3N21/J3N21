@@ -37,7 +37,7 @@ class Jailynne < Person
 
   def currently
     {
-      studying: [ 'Statistics for Data Science', 'Fundamentals of Data Engineering' ],
+      studying: [ 'Applied Machine Learning', 'Data Visualization' ],
       reading: [ 'Foundations of Agnostic Statistics', 'Tomorrow, and Tomorrow, and Tomorrow' ],
       tinkering: [ 'Statistics', 'Python' ]
      }

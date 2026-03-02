@@ -21,8 +21,8 @@ When I'm not working with data, you can find me in the middle of a run or on my 
 class Jailynne < Person
   def initialize
     @name = 'Jailynne Estevez'
-    @age = 26
-    @work = [ 'SQL' ]
+    @age = 27
+    @work = [ 'SQL', 'Python']
     @education = [ 'Bennington College BA', 'UC Berkeley MS' ]
     @hobbies = [ 'Running', 'Coffee', 'Podcasts' ]
   end
